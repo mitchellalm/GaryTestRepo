@@ -1,5 +1,5 @@
-name: Bug Report
-description: File a bug report
+name: Epic
+description: Gary test template
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:
